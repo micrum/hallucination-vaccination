@@ -1,4 +1,4 @@
-# hallucination-vaccination
+# Hallucination Vaccination
 
 A benchmark for evaluation of four targeted strategies to mitigate hallucinations: Structured Output Generation, Strict Rules Enforcement, System Prompt Enhancements, and Semantic Layer Integration.
 
